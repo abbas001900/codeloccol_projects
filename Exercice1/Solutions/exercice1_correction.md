@@ -19,6 +19,11 @@ Voici dans l'ordre l'ensemble des commandes que j'ai eu a utilise et le role qu'
 
 ## Captures d'ecran des outputs:
 
-![capture d'ecran numero 1](capture_1.png)
+![capture d'ecran numero 1](capture_2.png)
 
-![le logo de Framasoft](capture_2.png)
+![le logo de Framasoft](capture_1.png)
+
+
+## difficulte rencontre:
+
+Lors de la realisation de cet exercice, j'ai eu a rencontre comme difficulte, dans un premier temps, j'avais eu du mal a saisir clairement les instructions, ce qu'il m'etait demande de faire. Savoir si avant de creer un fichier ou un sous dossier je dois d'abord me deplacer dans le dossier en question ou le faire depuis le dossier courant a travers les chemins relatifs.
