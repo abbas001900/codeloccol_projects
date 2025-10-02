@@ -10,4 +10,5 @@ Voici dans l'ordre l'ensemble des commandes que j'ai eu a utilise et le role qu'
 * ```cat conteneur/ustensiles/cuisine.txt```: pour afficher le contenu de *cuisine.txt*.
 * ```ls -R conteneur```: Pour lister le contenu du dossier conteneur.
 
-## Captures d'ecran des outputs:
+## Capture d'ecran de l'output:
+![Capture d'ecran du rendu](capture_ecran_exercice2.png)
