@@ -21,7 +21,7 @@ Voici dans l'ordre l'ensemble des commandes que j'ai eu a utilise et le role qu'
 
 ![capture d'ecran numero 1](capture_1.png)
 
-![le logo de Framasoft](capture_2.png)
+![capture d'ecran numero 2](capture_2.png)
 
 
 ## difficulte rencontre:
